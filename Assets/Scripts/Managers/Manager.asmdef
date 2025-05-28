@@ -1,0 +1,25 @@
+{
+    "name": "Manager",
+    "rootNamespace": "",
+    "references": [
+        "Interface",
+        "Utills",
+        "Defines",
+        "SaveData",
+        "UniTask",
+        "ACTk.Runtime",
+        "ACTk.Editor",
+        "ES3.Runtime",
+        "ScriptableObject",
+        "spine-unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
